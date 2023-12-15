@@ -1,4 +1,4 @@
-# Laravel Vue Company Management
+# Company Management Exam
 
 ## Requirements
 
@@ -88,6 +88,10 @@ yarn
     ```
 
     Visit [http://localhost:8000] in your browser.
+##Sample Email verification
+
+![image](https://github.com/gtuazon18/company-ws/assets/134997603/911411b3-aef9-4c27-8497-441caca905b5)
+
 
 ## Contributing
 
